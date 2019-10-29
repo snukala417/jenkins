@@ -1,5 +1,5 @@
 import unittest
-import math
+import maths
 class Testmath(unittest.TestCase):
     def test_add(self):
       A = maths.maths()
